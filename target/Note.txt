@@ -1,0 +1,1 @@
+these are the dependencies and pre-reqs to run the app, you can directly use them for better experience, or you could donwload simialar versions.
